@@ -1,5 +1,15 @@
 # Website Background Timer
 
+## 🚀 BREAKTHROUGH DISCOVERY 🚀
+
+We just tricked iPhones & Androids into running a real background timer using a silent MP3! 🔥
+
+🎵 The hack? A looping silent audio file keeps the media bar active, and when the timer ends, it seamlessly switches to an alarm sound! ⏳📢
+
+💡 No apps. No jailbreaks. Just pure web magic!
+
+### This makes PWAs more usable, and easy!! Any apps that need background access which is a PWA can utilise this!
+
 This project demonstrates a clever solution to create a real background timer that works across various devices and browsers—including iOS Safari, Android, and desktop browsers. The key discovery is a method to keep the music (media) bar active by using a silent audio stream and then seamlessly switching to an alarm sound when the timer ends.
 
 ## Overview
